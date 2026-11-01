@@ -57,4 +57,7 @@ I am also actively studying AI Multi-Media Tools as a “creative + technical pa
 
 ## Current Learning Path
 
-** AI Foundations → Prompt Engineering → AI Tool / LLM Evaluation → Practical Experiments and Rubrics → Portfolio Projects -> Repeat with Advanced AI Topics **
+- AI Foundations → Prompt Engineering → AI Tool / LLM Evaluation → Practical Experiments and Rubrics → Portfolio Projects
+- Current Active Tools: ChatGPT, Notion AI, GitHub, Google AI Studio
+- Repeat with Advanced AI Topics: VS Code, Python, Automation (Zapier, N8N) 
+
