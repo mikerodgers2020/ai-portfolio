@@ -3,8 +3,8 @@
 
 ### AI Evaluation | Prompt Engineering | QA & Software Engineering
 
-Returning Software Developer and QA Analyst, actively building practical
-AI skills in AI Concepts, Prompt Engineering and AI Tool Evaluation.
+- Returning Software Developer and QA Analyst.
+- Actively building practical AI skills in AI Concepts, Prompt Engineering and AI Tool Evaluation.
 
 With 30+ years of experience in software engineering, QA/testing, Web development, Database development, computer science instruction, enterprise systems and secure DOD systems, I bring a QA-engineering mindset and deep technical judgement to evaluating AI LLM outputs, Prompts, AI tools and RLHF model feedback.
 
